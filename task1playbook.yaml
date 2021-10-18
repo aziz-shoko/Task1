@@ -1,4 +1,5 @@
-- hosts: database
+#MaridaDB Installation Module
+ hosts: database
   become: yes
   tasks:
 
